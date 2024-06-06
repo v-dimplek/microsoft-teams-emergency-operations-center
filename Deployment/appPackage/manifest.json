@@ -27,7 +27,7 @@
   "composeExtensions": [],
   "configurableTabs": [
     {
-      "configurationUrl": "https://<<appDomain>>/index.html#/config",
+      "configurationUrl": "https://teoctestm365x14395716.azurewebsites.net/index.html#/config",
       "canUpdateConfiguration": true,
       "scopes": [
         "team",
@@ -39,7 +39,7 @@
     {
       "entityId": "index",
       "name": "Teams EOC",
-      "contentUrl": "https://<<appDomain>>/index.html#/tab",
+      "contentUrl": "https://teoctestm365x14395716.azurewebsites.net/index.html#/tab",
       "websiteUrl": "https://<<websiteUrl>>",
       "scopes": [
         "personal"
@@ -51,10 +51,10 @@
     "messageTeamMembers"
   ],
   "validDomains": [
-    "<<appDomain>>"
+    "teoctestm365x14395716.azurewebsites.net"
   ],
   "webApplicationInfo": {
-    "id": "<<clientId>>",
-    "resource": "api://<<appDomain>>/<<clientId>>"
+    "id": "041c190b-9663-49ad-bb55-26a69b9a697b",
+    "resource": "api://teoctestm365x14395716.azurewebsites.net/041c190b-9663-49ad-bb55-26a69b9a697b"
   }
 }
